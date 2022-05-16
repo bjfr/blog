@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bjfr/apache-camel-testing.git"
+    "url": "git+https://github.com/blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bjfr/apache-camel-testing/issues"
+    "url": "https://github.com/bjfr/blog/issues"
   },
-  "homepage": "https://github.com/bjfr/apache-camel-testing#readme"
+  "homepage": "https://github.com/bjfr/blog#readme"
 }
